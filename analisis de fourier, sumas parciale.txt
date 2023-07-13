@@ -1,0 +1,1 @@
+analisis de fourier, sumas parciales, ortogonalidad de senos y cosenos, condiciones de convergencia, propiedades matematicas de las funciones pares e impares
